@@ -1,0 +1,11 @@
+.content-wrapper {
+  text-align: center;
+}
+
+.content-wrapper ul {
+  padding: 0;
+}
+
+.content-wrapper ul li {
+  border-bottom: 2px dotted #000;
+}
